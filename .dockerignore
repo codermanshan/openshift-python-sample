@@ -1,6 +1,6 @@
 # do not send to the build context
 # it can only end in tears!
-
+docker build -t django-ex src/
 .git
 .gitignore
 *it
